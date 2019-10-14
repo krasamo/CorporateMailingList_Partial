@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mailing List</string>
+    <string name="app_alias">Corporate Mailing List</string>
+    <string name="action_settings">Settings</string>
+</resources>

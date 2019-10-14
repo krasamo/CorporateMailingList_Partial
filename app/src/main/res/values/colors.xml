@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FFFF9900</color>
+    <color name="colorDisabled">#88FF9900</color>
+    <color name="weeklyWeatherBackgroundColor">#FFF9F9F9</color>
+</resources>
